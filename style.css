@@ -308,6 +308,14 @@ section.terhindar .owl-carousel .owl-stage-outer{
 	overflow: visible;
 }
 
+#nextIcon:hover{	
+	width: 40px;
+}
+
+#prevIcon:hover{	
+	width: 40px;
+}
+
 #nextIcon{
 	position: absolute;	
 	right: -100px;
@@ -315,6 +323,7 @@ section.terhindar .owl-carousel .owl-stage-outer{
 	z-index: 999;
 	font-size: 40px;
 	color: #3E349C;
+	transition: all 1.5s;
 }
 
 #prevIcon{
@@ -324,6 +333,7 @@ section.terhindar .owl-carousel .owl-stage-outer{
 	z-index: 999;
 	font-size: 40px;
 	color: #3E349C;
+	transition: 1.5s;
 }
 
 .kotakss{
