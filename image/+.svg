@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="icon" transform="translate(2.5 2.5)">
+    <path d="M0 52C0 23.2812 23.2812 0 52 0C80.7188 0 104 23.2812 104 52C104 80.7188 80.7188 104 52 104C23.2812 104 0 80.7188 0 52Z" id="Ellipse-2" fill="none" stroke="#1E932C" stroke-width="5" />
+    <g id="garis" transform="translate(20 32.99988)">
+      <path d="M0 27.5L33.0376 0L63.6807 27.2032" id="Line" fill="none" stroke="#1E932C" stroke-width="5" />
+      <path d="M0 22L24.7368 0L47.6807 21.7626" transform="translate(10.00012 16.49988)" id="Line-2" fill="none" stroke="#1E932C" stroke-width="5" />
+    </g>
+  </g>
+</svg>
